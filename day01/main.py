@@ -1,4 +1,4 @@
-#This code takes two inputs from prompts and outputs a band name
+# This code takes two inputs from prompts and outputs a band name
 print("Welcome to the Band Name Generator.")
 
 city = input("What's the name of the city you grew up in?\n")
