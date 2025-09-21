@@ -51,3 +51,11 @@ day22/.idea/vcs.xml
 day22/__pycache__/ball.cpython-313.pyc
 day22/__pycache__/paddle.cpython-313.pyc
 day22/__pycache__/scoreboard.cpython-313.pyc
+day23/.idea/day23.iml
+day23/.idea/inspectionProfiles/profiles_settings.xml
+day23/.idea/misc.xml
+day23/.idea/modules.xml
+day23/.idea/vcs.xml
+day23/__pycache__/car_manager.cpython-313.pyc
+day23/__pycache__/player.cpython-313.pyc
+day23/__pycache__/scoreboard.cpython-313.pyc
