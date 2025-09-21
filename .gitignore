@@ -43,3 +43,11 @@ day21/.idea/misc.xml
 day21/.idea/vcs.xml
 day21/__pycache__/food.cpython-313.pyc
 day21/__pycache__/scoreboard.cpython-313.pyc
+day22/.idea/day22.iml
+day22/.idea/inspectionProfiles/profiles_settings.xml
+day22/.idea/misc.xml
+day22/.idea/modules.xml
+day22/.idea/vcs.xml
+day22/__pycache__/ball.cpython-313.pyc
+day22/__pycache__/paddle.cpython-313.pyc
+day22/__pycache__/scoreboard.cpython-313.pyc
