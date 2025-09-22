@@ -1,4 +1,5 @@
 # Snake game part 1: Implementing class, keys, time, and tracer
+# Snake game updates on Day 21
 from turtle import Screen
 from snake import Snake
 from food import Food
