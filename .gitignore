@@ -91,3 +91,5 @@ day25/.idea/misc.xml
 day25/.idea/modules.xml
 day25/.idea/vcs.xml
 day25/__pycache__/create_state.cpython-313.pyc
+*.xml
+*.iml
